@@ -1,0 +1,76 @@
+RESULTS DATASET
+
+old_town_cross_420_720p50
+CrowdRun_1920x1080_25
+Netflix_DrivingPOV_1280x720_60fps_8bit_420_120f
+WestWindEasy_1280x720p30_420
+BlueSky_360p25
+RedKayak_360_2997
+SparksElevator_480x270p_5994_10bit
+park_joy_420_720p50
+CosmosTreeTrunk_sdr_2048x858_25_8bit
+SolLevanteFace_1920x1080p24_hdr10
+
+
+
+TEST DATASET
+
+SolLevanteDragons_1920x1080p24_hdr10
+FourPeople_1280x720_60
+SpeedBag_640x360_2997
+Vidyo4_1280x720_60
+pedestrian_area_1080p25
+PierSeaSide_960x540_2997fps_10bit_420
+PierSeaSide_640x360_2997fps_10bit_420
+
+
+
+TRAIN DATASET
+
+# 240p
+BQSquare_416x240_60
+Flowervase_416x240_30
+tempete_cif
+waterfall_cif
+BasketballPass_416x240_50
+BlowingBubbles_416x240_50
+RaceHorses_416x240_30
+bus_cif
+city_cif
+coastguard_cif
+
+# 480p
+PartyScene_832x480_50
+aspen_480p_30f
+into_tree_480p_30f
+station2_480p25
+BQMall_832x480_60
+RaceHorsesC_832x480_30
+BasketballDrill_832x480_50
+city_4cif
+soccer_4cif
+CosmosCaterpillar_2048x858p24_hdr10
+
+# 720p
+in_to_tree_420_720p50
+mobcal_720p_30f
+Vidyo1_1280x720_60
+SlideShow_1280x720_20
+SlideEditing_1280x720_30
+Johnny_1280x720_60
+720p50_parkrun_ter
+720p50_shields_ter
+720p5994_stockholm_ter
+ducks_take_off_420_720p50
+
+# 1080p
+station2_1080p25
+TimeLapseStreet_1920x1080p30_130f
+WorldCupFarSky_1920x1080_30p
+ArenaOfValor_1920x1080_60_8bit_420
+BasketballDrive_1920x1080_50
+BQTerrace_1920x1080_60
+Kimono1_1920x1080_24
+ParkScene_1920x1080_24
+ducks_take_off_1080p50
+in_to_tree_1080p50
