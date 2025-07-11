@@ -1,4 +1,4 @@
-HIGH
+Model A
  
 tmp_rs 
 min_rd 
@@ -6,13 +6,14 @@ switchable_rate
 x__cnt_zeromv
 cpi__tpl_rdmult_scaling_factors
 cpi__ppi__twopass__rolling_arf_group_actual_bits
+cpi__ppi__p_rc__rolling_actual_bits
 cpi__rd__r0
 bsize
 filter_idx
 mode
 
 
-LOW
+Model B
 
 tmp_rs
 min_rd
